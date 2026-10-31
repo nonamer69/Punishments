@@ -1,0 +1,18 @@
+name: Punishments
+version: '${version}'
+
+main: net.noname18_.punishments.Main
+api-version: '1.21.3'
+load: POSTWORLD
+
+commands:
+  mute:
+    description: Mute a player.
+  unmute:
+    description: Unmute a player.
+  kick:
+    description: Kick a player.
+  ban:
+    description: Bans a player.
+  unban:
+    description: Unbans a player.
